@@ -57,7 +57,6 @@ logs_dir = Dir('logs')
 ckpts_dir = Dir('ckpts')
 data_dir = Dir('data')
 exps_dir = Dir('exps')
-results_dir = Dir('results')
 
 if training:
     for py_name in ('configs', 'modules', 'model', 'runner'):
