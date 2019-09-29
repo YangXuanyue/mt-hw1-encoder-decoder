@@ -218,14 +218,14 @@ class Runner:
                 f'100%, time: {time.time() - start_time:.6}, bleu: {bleu_score}'
             )
 
-            with open(f'{configs.results_dir}/{name}_results.{self.ckpt_id}.txt', 'w') as results_file:
+            with open(f'{configs.results_dir}/results.{name}.{self.ckpt_id}.txt', 'w') as results_file:
                 # for best_seq, reference in zip(best_seqs, references):
                 for best_seq in best_seqs:
                     print(' '.join(best_seq), file=results_file)
                     # print(' '.join(reference), file=results_file)
                     # print('', file=results_file)
             os.system(
-                f'./multi-bleu.perl data/{name}.de-en.en < {configs.results_dir}/{name}_results.{self.ckpt_id}.txt'
+                f'./multi-bleu.perl data/{name}.de-en.en < {configs.results_dir}/results.{name}.{self.ckpt_id}.txt'
             )
 
     @staticmethod
