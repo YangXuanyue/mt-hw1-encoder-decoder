@@ -1,0 +1,67 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Bengio et~al.(2015)Bengio, Vinyals, Jaitly, and
+  Shazeer}]{bengio2015scheduled}
+Samy Bengio, Oriol Vinyals, Navdeep Jaitly, and Noam Shazeer. 2015.
+\newblock Scheduled sampling for sequence prediction with recurrent neural
+  networks.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pages
+  1171--1179.
+
+\bibitem[{Cettolo et~al.(2012)Cettolo, Girardi, and Federico}]{cettolo2012wit3}
+Mauro Cettolo, Christian Girardi, and Marcello Federico. 2012.
+\newblock Wit3: Web inventory of transcribed and translated talks.
+\newblock In \emph{Conference of European Association for Machine Translation},
+  pages 261--268.
+
+\bibitem[{Gu et~al.(2018)Gu, Im, and Li}]{gu2018neural}
+Jiatao Gu, Daniel~Jiwoong Im, and Victor~OK Li. 2018.
+\newblock Neural machine translation with gumbel-greedy decoding.
+\newblock In \emph{Thirty-Second AAAI Conference on Artificial Intelligence}.
+
+\bibitem[{Jang et~al.(2016)Jang, Gu, and Poole}]{jang2016categorical}
+Eric Jang, Shixiang Gu, and Ben Poole. 2016.
+\newblock Categorical reparameterization with gumbel-softmax.
+\newblock \emph{arXiv preprint arXiv:1611.01144}.
+
+\bibitem[{Luong et~al.(2015)Luong, Pham, and Manning}]{luong2015effective}
+Minh-Thang Luong, Hieu Pham, and Christopher~D Manning. 2015.
+\newblock Effective approaches to attention-based neural machine translation.
+\newblock \emph{arXiv preprint arXiv:1508.04025}.
+
+\bibitem[{Merity et~al.(2017)Merity, Keskar, and
+  Socher}]{merity2017regularizing}
+Stephen Merity, Nitish~Shirish Keskar, and Richard Socher. 2017.
+\newblock Regularizing and optimizing lstm language models.
+\newblock \emph{arXiv preprint arXiv:1708.02182}.
+
+\bibitem[{Neubig et~al.(2019)Neubig, Dou, Hu, Michel, Pruthi, and
+  Wang}]{neubig19naacl}
+Graham Neubig, Zi-Yi Dou, Junjie Hu, Paul Michel, Danish Pruthi, and Xinyi
+  Wang. 2019.
+\newblock compare-mt: A tool for holistic comparison of language generation
+  systems.
+\newblock In \emph{Meeting of the North American Chapter of the Association for
+  Computational Linguistics (NAACL) Demo Track}, Minneapolis, USA.
+
+\bibitem[{Press and Wolf(2016)}]{press2016using}
+Ofir Press and Lior Wolf. 2016.
+\newblock Using the output embedding to improve language models.
+\newblock \emph{arXiv preprint arXiv:1608.05859}.
+
+\bibitem[{Ranzato et~al.(2015)Ranzato, Chopra, Auli, and
+  Zaremba}]{ranzato2015sequence}
+Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, and Wojciech Zaremba. 2015.
+\newblock Sequence level training with recurrent neural networks.
+\newblock \emph{arXiv preprint arXiv:1511.06732}.
+
+\bibitem[{Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones,
+  Gomez, Kaiser, and Polosukhin}]{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin. 2017.
+\newblock Attention is all you need.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  5998--6008.
+
+\end{thebibliography}
