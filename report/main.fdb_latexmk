@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1570068112 "main.aux" "main.bbl" "main" 1570068182
+["bibtex main"] 1570068112 "main.aux" "main.bbl" "main" 1570069419
   "./acl_natbib_nourl.bst" 1569743928 35617 579da1c3ec247f6c8d9b3e0a0f216a93 ""
   "emnlp2018.bib" 1570064940 3091 71252d2737d2fe5b13dc30f50ef88cd2 ""
-  "main.aux" 1570068113 2504 b9208e1ddaaafa0eb4aa31de5aaf2b84 ""
+  "main.aux" 1570069419 2504 b9208e1ddaaafa0eb4aa31de5aaf2b84 ""
   (generated)
-  "main.bbl"
   "main.blg"
-["pdflatex"] 1570068113 "main.tex" "main.pdf" "main" 1570068182
+  "main.bbl"
+["pdflatex"] 1570069419 "main.tex" "main.pdf" "main" 1570069419
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1480098688 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -129,13 +129,13 @@
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "emnlp2018.sty" 1569743928 21482 889982fa4a707fe10e577797a35c1040 ""
-  "main.aux" 1570068113 2504 b9208e1ddaaafa0eb4aa31de5aaf2b84 ""
+  "main.aux" 1570069419 2504 b9208e1ddaaafa0eb4aa31de5aaf2b84 ""
   "main.bbl" 1570068113 3069 ae3f34eff5d37b0609fa7674aee1053f "bibtex main"
-  "main.out" 1570068113 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "main.tex" 1570068175 19573 853f7dccc4ff4e93be728253e8b686c8 ""
+  "main.out" 1570069419 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "main.tex" 1570069411 19495 3db37111a07057ac3f8d1e4654576270 ""
   "ppls.png" 1569897204 20978 17a5357692aa24becc7cb5b2f017b8cd ""
   (generated)
+  "main.pdf"
+  "main.log"
   "main.aux"
   "main.out"
-  "main.log"
-  "main.pdf"
